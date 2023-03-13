@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./export.flow.js",
   "devDependencies": {
     "typescript": "^4.9.5"

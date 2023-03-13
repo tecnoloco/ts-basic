@@ -5,3 +5,5 @@
  */
 
 declare export function hello(who?: string): string;
+
+export * from './index.js'; export * from './index.ts';
